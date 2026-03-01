@@ -1,0 +1,23 @@
+{
+    "frecuencia_Hz": 500000.0,
+    "canales": [
+        0,
+        1
+    ],
+    "ganancias": [
+        0,
+        0
+    ],
+    "flags": [
+        [
+            "DafBipolar",
+            "DafDifferential"
+        ],
+        [
+            "DafBipolar",
+            "DafDifferential"
+        ]
+    ],
+    "fecha": "Wed Jun 18 11:07:48 2025",
+    "scans_totales": 9814016
+}
